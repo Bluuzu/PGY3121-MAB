@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<!-- <link rel="stylesheet" href="style.css"-->
+</head>
+<body>
+    
+                    <center><h1> ONG - AYUDA A UN PELUDO  </h1> </center>
+                    <br>
+                    <p style="text-align: center;">Somos una corporación destinada a trabajar por el bienestar animal y promover el respeto y la</br>
+                    tenencia responsable de animales de compañía, especialmente en condición de abandono,</br>
+                    rescatando y mejorando las condiciones sanitarias, educando y generando conciencia en la<br>
+                        población. Esto lo hacemos para mejorar la calidad de vida, las condiciones de salud pública y </br>
+                        contribuir a una sociedad más empática, solidaria y consciente de la interacción </br>
+                        de los animales con el ser humano.
+                        </p>
+                        
+                <h2> Nuestro integrantes: </h2>
+                    
+                    <ul>
+                        <li>Belen Calfin - Jefe(a)proyecto </li>
+                        <li> Alexander Osorio -Programador </li>
+                        <li>Marcelo Tapia - Analista BD </li>
+                    </ul>
+
+                    <h2> Nuestra Secciones De Ayuda</h2></br>
+                    <!--<a href="primera-pagina.html" target="-self">Regreso</a><br>-->
+                    <a href="ayudaPeludo/gato.html" target="-self">
+                        <img src="img/1h.jpg" style="width: 250px;">
+                        perros</a><br>
+
+
+
+
+                    
+                    <a href="ayudaPeludo/gato.html" target="-self">
+                        <img src="img/2h.jpg"  style="width: 250px;">
+                        
+                        gatos</a>
+                    
+
+<!--&nbsp; esto es para tabular-->  
+
+</body>
+</html>

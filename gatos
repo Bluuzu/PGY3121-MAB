@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<!-- <link rel="stylesheet" href="style.css"-->
+</head>
+<body>
+    
+                    <center><h1> GATOS EN ADOPCI&Oacute;N  </h1> </center>
+                    <br>
+                    <p style="text-align: center;"> Cualquier persona que adopte un perro en El Refugio tendrá su vacuna contra la rabia,</br>
+                        una revisión veterinaria general y una desparasitación al año,</br>
+                        <b>GRATIS DURANTE TODA SU VIDA</b>. Las personas que adopten un gato en El </br>
+                        Refugio tendrán su vacuna trivalente, una revisión veterinaria general</br>
+                        y una desparasitación al año, <b>TAMBIÉN GRATIS DURANTE TODA SU VIDA</b>. Los </br>
+                        animales adoptados recibirán la atención en el Centro Veterinario El Refugio  
+                    </p>
+                        
+                <h2><center> Nuestros Gatos que buscan familia: </center></h2>
+                    <center>                   
+                        <a href="ayudaPeludo/gato.html" target="-self">
+                            <img src="img/Susy.jpg" style="width: 250px;">
+                            <br>Susy</a> <br> <br>
+                        <a href="ayudaPeludo/gato.html" target="-self">
+                            <img src="img/Pulga.png" style="width: 250px;">
+                            <br>Pulga</a> <br> <br>
+                        <a href="ayudaPeludo/gato.html" target="-self">
+                            <img src="img/Sasha.png" style="width: 250px;">
+                            <br>Sasha</a> <br> <br> 
+                    </center>
+</body>
+</html>

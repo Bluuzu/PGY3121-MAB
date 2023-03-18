@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    <!-- <link rel="stylesheet" href="style.css"-->
+    </head>
+    <style>
+    .inicio{
+        display: flex;
+        justify-content: right;
+        margin: 0 auto;
+        align-items: flex-end;
+        text-align: right;
+    }
+    .contenedor{
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+    .text{
+        padding-left: 25px;
+    }
+    </style>
+
+    <body>
+        <div class="inicio">
+            <a href="http://127.0.0.1:5500/ayudapeludo/gato.html" target="_self">
+                <p>Inicio > volver a gatos </p>
+            </a>
+        </div>
+
+        <div class="contenedor">
+        <img src="img/Pulga" style="width: 300px" height=" 300px";
+        <p class="text"> Nombre: Pulga <br>
+            Edad: 8 Meses <br>
+            Genero: Hembra <br>
+            Esterilizado: Si <br>
+            Nro. Chip: 562958752156  <br>
+        </p>
+        </div>
+    </body>
+<html>
